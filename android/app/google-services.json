@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78632034830",
+    "project_id": "mapoot-435dc",
+    "storage_bucket": "mapoot-435dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78632034830:android:792207902138d4a66a925f",
+        "android_client_info": {
+          "package_name": "com.example.mapoot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78632034830-ffs2mo710dt9deifmvg5tnjep8e6uee2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkX4nb-4Dhfr0zkfKATS3NW_tmLvhsxd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78632034830-ffs2mo710dt9deifmvg5tnjep8e6uee2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
